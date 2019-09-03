@@ -1,0 +1,37 @@
+.header-main {
+    font-weight: 700;
+    text-align: center;
+    background-color: silver;
+    margin: auto;
+    height: 300px;
+    position: relative;
+    background-size: cover;
+    font-size: 24px;
+}
+
+.header-title {
+  margin-top: 30px;
+  color: thistle;
+  display: inline-block;
+  /* this ^ somehow filled in that top gap... */
+}
+
+/* .nav {
+  overflow: hidden;
+  background-color: silver;
+} */
+
+/* .nav-link {
+  float: left;
+  color: #f2f2f2;
+  background-color: #6f7777;
+  text-align: center;
+  padding: 24px 10px;
+  text-decoration: none;
+  font-size: 15px; 
+} */
+
+
+/* .nav-right {
+  float: right;
+} */
