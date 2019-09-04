@@ -7,8 +7,8 @@ import './Header.css';
 class Header extends Component {
   render(){
     return(
-      <div className="header-main">
-        <div className="header-title">Spice Wheels</div>
+      <div className="header">
+        
       </div>
     )
   }
