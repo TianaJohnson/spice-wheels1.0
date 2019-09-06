@@ -1,7 +1,7 @@
 .header {
   font-family:'Merriweather', serif;
   overflow: hidden;
-  background-image: url("/images/truingstand.JPG");
+  background-image: linear-gradient(gray, blue);
   background-repeat: no-repeat;
   background-size: cover;
   height: 400px;
