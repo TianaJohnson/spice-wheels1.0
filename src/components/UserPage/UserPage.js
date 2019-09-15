@@ -4,7 +4,7 @@ import { connect } from 'react-redux';
 
 
 const UserPage = (props) => (
-  <div>
+  <div className="">
     <h1 id="welcome">
       Welcome!
     </h1>
