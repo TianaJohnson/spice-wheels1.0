@@ -52,8 +52,9 @@ class NodeMailer extends Component {
   render() {
     return (
       <div className="App">
-        {/* <Card classNmae="mail-card"> */}
-          {/* <header className="App-header"> */}
+        <h1>Contact Us!
+          <br/>
+        </h1>
           <h2 className="mail-text">Email </h2>
           <br />
           <form
